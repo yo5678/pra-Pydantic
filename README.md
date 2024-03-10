@@ -17,7 +17,7 @@ Pydanticを使うことで処理実施時に型をチェックする動的な型
 
 ## Pydanticの基本的な使い方
 
-main.pyに記載中。
+[main.py](https://github.com/yo5678/pra-Pydantic/blob/main/src/src/main.py)に記載中。
 
 ## 参考
 
