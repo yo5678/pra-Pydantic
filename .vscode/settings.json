@@ -1,0 +1,7 @@
+{
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "editor.defaultFormatter": "charliermarsh.ruff",
+    "python.defaultInterpreterPath": "${workspaceFolder}/src/.venv/bin/python",
+    "mypy-type-checker.path": ["${workspaceFolder}/src/.venv/bin/mypy"]
+}
+
